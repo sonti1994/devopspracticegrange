@@ -3,3 +3,7 @@ aws
 git
 jenkins
 maven
+docker
+k8s
+ansible
+terraform
